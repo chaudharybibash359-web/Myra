@@ -1,0 +1,6 @@
+{
+  "name": "MYRA CORE",
+  "description": "Autonomous cyber-neon workstation assistant and central intelligence engine featuring real-time telemetry, conversational voice, and vision inspection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
